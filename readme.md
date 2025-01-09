@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats-rust-sigma-23.vercel.app/api?username=niall-manson&hide_title=false&hide_rank=false&show_icons=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats-rust-sigma-23.vercel.app/api/top-langs?username=niall-manson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats-rust-sigma-23.vercel.app/api/top-langs?username=niall-manson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false&order=2" height="250" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niall-manson&radius=16&theme=github-dark&area=true&order=5" height="450" alt="activity-graph graph"  />
 </div>
 
